@@ -1,1 +1,1 @@
-# https://github.com/encaion/SeSAC_Py
+# bit.ly/SeSAC_Py
