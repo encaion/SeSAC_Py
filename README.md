@@ -9,6 +9,3 @@
 * 공공데이터포털: https://www.data.go.kr/
 * GCP: https://datadoctorblog.com/2021/01/29/etc-google-cloud-platform-geocoding/
 
-keykey: Bk7EYrKKdxlarCe3OIShvWZ%2BHAUiSCKgR2dpgUk8MOgX6maAKWzDK4Pp2EapWX6GHOZRO%2BL72p9o6cREOHEWGw%3D
-
-상기 key에 %3D를 추가로 써서 실행 요망
