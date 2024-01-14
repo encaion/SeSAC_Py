@@ -17,7 +17,5 @@
 * 무니무니 교수님: https://www.youtube.com/playlist?list=PLHyv9ND8t5M2bDh9jjOiIewVf77bglZ2y
 
 
-### \[공지\] - 1월 10일 교육 전 다음 사이트 가입 필요
-* 공공데이터포털: https://www.data.go.kr/
-* GCP: https://datadoctorblog.com/2021/01/29/etc-google-cloud-platform-geocoding/
-
+### \[공지\] 
+복습 잘하기.
