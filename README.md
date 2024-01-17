@@ -11,6 +11,8 @@
 * 데이터 분할 2: https://datadoctorblog.com/2023/08/01/Py-ML-Split-Data-Sets-02/
 * 정규화: https://datadoctorblog.com/2023/07/23/Py-ML-Normalization/
 
+* 상관분석 게임: https://www.guessthecorrelation.com/
+
 
 ### 참고 자료
 * Mar I/O: https://www.youtube.com/watch?v=qv6UVOQ0F44
