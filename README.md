@@ -7,15 +7,15 @@
 * Adobe Color: https://color.adobe.com/
 <br>
 
-* 데이터 분할 1: https://datadoctorblog.com/2023/07/14/Py-ML-Split-Data-Sets-01/
-* 데이터 분할 2: https://datadoctorblog.com/2023/08/01/Py-ML-Split-Data-Sets-02/
+* 데이터 분할 1: https://datadoctorblog.com/2023/07/14/Py-ML-Split-Data-Sets-01/  
+* 데이터 분할 2: https://datadoctorblog.com/2023/08/01/Py-ML-Split-Data-Sets-02/  
 * 정규화: https://datadoctorblog.com/2023/07/23/Py-ML-Normalization/
 
 * 상관분석 게임: https://www.guessthecorrelation.com/
 
 
 ### 참고 자료
-* Mar I/O: https://www.youtube.com/watch?v=qv6UVOQ0F44
+* Mar I/O: https://www.youtube.com/watch?v=qv6UVOQ0F44  
 * 무니무니 교수님: https://www.youtube.com/playlist?list=PLHyv9ND8t5M2bDh9jjOiIewVf77bglZ2y  
 * 레포트 참고: https://datalab.visitkorea.or.kr/common/board/Download.do?bcIdx=305184&cbIdx=1129&streFileNm=a71a26f3-32a1-4044-bfee-a21a45740d72.pdf
 
