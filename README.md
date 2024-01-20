@@ -7,9 +7,11 @@
 * Adobe Color: https://color.adobe.com/
 <br>
 
-* 데이터 분할 1: https://datadoctorblog.com/2023/07/14/Py-ML-Split-Data-Sets-01/  
-* 데이터 분할 2: https://datadoctorblog.com/2023/08/01/Py-ML-Split-Data-Sets-02/  
+* 데이터 분할 1: https://datadoctorblog.com/2023/07/14/Py-ML-Split-Data-Sets-01/
+* 데이터 분할 2: https://datadoctorblog.com/2023/08/01/Py-ML-Split-Data-Sets-02/
 * 정규화: https://datadoctorblog.com/2023/07/23/Py-ML-Normalization/
+
+
 
 * 상관분석 게임: https://www.guessthecorrelation.com/
 
