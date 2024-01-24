@@ -15,6 +15,7 @@
 
 * 상관분석 게임: https://www.guessthecorrelation.com/
 
+* iris data: https://datadoctorblog.com/data/iris.csv 
 
 ### 참고 자료
 * Mar I/O: https://www.youtube.com/watch?v=qv6UVOQ0F44  
